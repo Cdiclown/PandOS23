@@ -1,5 +1,6 @@
 # Progetto sistemi operativi 2022/23 – Panda+
 
+A simple operating system for the MIPS architecture
 
 
 ## Link utili
